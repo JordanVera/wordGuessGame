@@ -1,0 +1,10 @@
+
+h1	{
+	padding: 2rem 0 2rem 0;
+	font-size: 3rem;
+	text-align: center;
+}
+
+#guess-input {
+	width: 20rem;
+}
